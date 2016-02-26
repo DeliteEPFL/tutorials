@@ -35,6 +35,7 @@ package scala.lms.tutorial
 
 import org.scalatest.FunSuite
 import org.scala_lang.virtualized.{EmbeddedControls, virtualize}
+import org.scala_lang.virtualized.SourceContext
 
 /**
 Regular Expression Matcher
